@@ -1,2 +1,1 @@
-# Prueba
-repositorio prueba, curso gf0604-2
+# Repositorio de prueba
